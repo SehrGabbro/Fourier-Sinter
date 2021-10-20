@@ -1,0 +1,9 @@
+C:\Users\Gabbro\Source\Repos\Fourier-Sinter\Fourier-Sinter\bin\Release\Fourier-Sinter.exe.config
+C:\Users\Gabbro\Source\Repos\Fourier-Sinter\Fourier-Sinter\bin\Release\Fourier-Sinter.exe
+C:\Users\Gabbro\Source\Repos\Fourier-Sinter\Fourier-Sinter\bin\Release\Fourier-Sinter.pdb
+C:\Users\Gabbro\Source\Repos\Fourier-Sinter\Fourier-Sinter\obj\Release\FourierSinter.Form1.resources
+C:\Users\Gabbro\Source\Repos\Fourier-Sinter\Fourier-Sinter\obj\Release\FourierSinter.Properties.Resources.resources
+C:\Users\Gabbro\Source\Repos\Fourier-Sinter\Fourier-Sinter\obj\Release\Fourier-Sinter.csproj.GenerateResource.cache
+C:\Users\Gabbro\Source\Repos\Fourier-Sinter\Fourier-Sinter\obj\Release\Fourier-Sinter.csproj.CoreCompileInputs.cache
+C:\Users\Gabbro\Source\Repos\Fourier-Sinter\Fourier-Sinter\obj\Release\Fourier-Sinter.exe
+C:\Users\Gabbro\Source\Repos\Fourier-Sinter\Fourier-Sinter\obj\Release\Fourier-Sinter.pdb
